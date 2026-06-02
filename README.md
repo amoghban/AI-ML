@@ -1,2 +1,2 @@
-# Naresh-IT
-Naresh-IT Practice
+# AI ML Related Code
+AI ML Practice
